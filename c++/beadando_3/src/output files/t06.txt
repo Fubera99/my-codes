@@ -1,0 +1,29 @@
+------------------------------------------------------------
+Year 1:
+Japanese:
+planned: 10000, actual: 12000
+..............................
+Modern:
+planned: 10000, actual: 13000
+..............................
+Others:
+planned: 10000, actual: 10000
+..............................
+The annual income of the city: 3500 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 2:
+Japanese:
+planned: 10000, actual: 12000
+..............................
+Modern:
+planned: 10000, actual: 13000
+..............................
+Others:
+planned: 10000, actual: 10000
+..............................
+The annual income of the city: 3500 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+After the last year, the status of the city: 100 which is good

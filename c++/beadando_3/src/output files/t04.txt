@@ -1,0 +1,43 @@
+------------------------------------------------------------
+Year 1:
+Japanese:
+planned: 0, actual: 0
+..............................
+Modern:
+planned: 1000, actual: 1100
+..............................
+Others:
+planned: 0, actual: 0
+..............................
+The annual income of the city: 110 million HUF
+Status of the city, before the repairs: 39 which is average
+------------------------------------------------------------
+------------------------------------------------------------
+Year 2:
+Japanese:
+planned: 0, actual: 0
+..............................
+Modern:
+planned: 1000, actual: 1100
+..............................
+Others:
+planned: 0, actual: 0
+..............................
+The annual income of the city: 110 million HUF
+Status of the city, before the repairs: 28 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 3:
+Japanese:
+planned: 0, actual: 0
+..............................
+Modern:
+planned: 1000, actual: 1000
+..............................
+Others:
+planned: 0, actual: 0
+..............................
+The annual income of the city: 100 million HUF
+Status of the city, before the repairs: 18 which is poor
+------------------------------------------------------------
+After the last year, the status of the city: 18 which is poor

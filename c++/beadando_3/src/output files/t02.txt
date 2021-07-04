@@ -1,0 +1,561 @@
+------------------------------------------------------------
+Year 1:
+Japanese:
+planned: 1915, actual: 1915
+..............................
+Modern:
+planned: 1639, actual: 1802
+..............................
+Others:
+planned: 1329, actual: 1461
+..............................
+The annual income of the city: 517.8 million HUF
+Status of the city, before the repairs: 3 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 2:
+Japanese:
+planned: 1695, actual: 0
+..............................
+Modern:
+planned: 527, actual: 527
+..............................
+Others:
+planned: 1772, actual: 1772
+..............................
+The annual income of the city: 229.9 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 3:
+Japanese:
+planned: 735, actual: 0
+..............................
+Modern:
+planned: 1199, actual: 1199
+..............................
+Others:
+planned: 965, actual: 965
+..............................
+The annual income of the city: 216.4 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 4:
+Japanese:
+planned: 470, actual: 0
+..............................
+Modern:
+planned: 1435, actual: 1435
+..............................
+Others:
+planned: 1605, actual: 1605
+..............................
+The annual income of the city: 304 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 5:
+Japanese:
+planned: 579, actual: 0
+..............................
+Modern:
+planned: 662, actual: 662
+..............................
+Others:
+planned: 570, actual: 570
+..............................
+The annual income of the city: 123.2 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 6:
+Japanese:
+planned: 760, actual: 0
+..............................
+Modern:
+planned: 1143, actual: 1143
+..............................
+Others:
+planned: 1099, actual: 1099
+..............................
+The annual income of the city: 224.2 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 7:
+Japanese:
+planned: 922, actual: 0
+..............................
+Modern:
+planned: 1729, actual: 1729
+..............................
+Others:
+planned: 470, actual: 470
+..............................
+The annual income of the city: 219.9 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 8:
+Japanese:
+planned: 1980, actual: 0
+..............................
+Modern:
+planned: 1504, actual: 1504
+..............................
+Others:
+planned: 1421, actual: 1421
+..............................
+The annual income of the city: 292.5 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 9:
+Japanese:
+planned: 766, actual: 0
+..............................
+Modern:
+planned: 1320, actual: 1320
+..............................
+Others:
+planned: 842, actual: 842
+..............................
+The annual income of the city: 216.2 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 10:
+Japanese:
+planned: 1959, actual: 0
+..............................
+Modern:
+planned: 471, actual: 471
+..............................
+Others:
+planned: 1479, actual: 1479
+..............................
+The annual income of the city: 195 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 11:
+Japanese:
+planned: 780, actual: 0
+..............................
+Modern:
+planned: 858, actual: 858
+..............................
+Others:
+planned: 1674, actual: 1674
+..............................
+The annual income of the city: 253.2 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 12:
+Japanese:
+planned: 1959, actual: 0
+..............................
+Modern:
+planned: 1460, actual: 1460
+..............................
+Others:
+planned: 1699, actual: 1699
+..............................
+The annual income of the city: 315.9 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 13:
+Japanese:
+planned: 1855, actual: 0
+..............................
+Modern:
+planned: 471, actual: 471
+..............................
+Others:
+planned: 1356, actual: 1356
+..............................
+The annual income of the city: 182.7 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 14:
+Japanese:
+planned: 664, actual: 0
+..............................
+Modern:
+planned: 872, actual: 872
+..............................
+Others:
+planned: 1202, actual: 1202
+..............................
+The annual income of the city: 207.4 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 15:
+Japanese:
+planned: 593, actual: 0
+..............................
+Modern:
+planned: 1660, actual: 1660
+..............................
+Others:
+planned: 1982, actual: 1982
+..............................
+The annual income of the city: 364.2 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 16:
+Japanese:
+planned: 1488, actual: 0
+..............................
+Modern:
+planned: 499, actual: 499
+..............................
+Others:
+planned: 1191, actual: 1191
+..............................
+The annual income of the city: 169 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 17:
+Japanese:
+planned: 464, actual: 0
+..............................
+Modern:
+planned: 971, actual: 971
+..............................
+Others:
+planned: 527, actual: 527
+..............................
+The annual income of the city: 149.8 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 18:
+Japanese:
+planned: 1136, actual: 0
+..............................
+Modern:
+planned: 1586, actual: 1586
+..............................
+Others:
+planned: 928, actual: 928
+..............................
+The annual income of the city: 251.4 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 19:
+Japanese:
+planned: 1578, actual: 0
+..............................
+Modern:
+planned: 748, actual: 748
+..............................
+Others:
+planned: 1089, actual: 1089
+..............................
+The annual income of the city: 183.7 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 20:
+Japanese:
+planned: 1225, actual: 0
+..............................
+Modern:
+planned: 779, actual: 779
+..............................
+Others:
+planned: 938, actual: 938
+..............................
+The annual income of the city: 171.7 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 21:
+Japanese:
+planned: 1210, actual: 0
+..............................
+Modern:
+planned: 1878, actual: 1878
+..............................
+Others:
+planned: 1881, actual: 1881
+..............................
+The annual income of the city: 375.9 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 22:
+Japanese:
+planned: 983, actual: 0
+..............................
+Modern:
+planned: 1048, actual: 1048
+..............................
+Others:
+planned: 546, actual: 546
+..............................
+The annual income of the city: 159.4 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 23:
+Japanese:
+planned: 1786, actual: 0
+..............................
+Modern:
+planned: 1614, actual: 1614
+..............................
+Others:
+planned: 1968, actual: 1968
+..............................
+The annual income of the city: 358.2 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 24:
+Japanese:
+planned: 537, actual: 0
+..............................
+Modern:
+planned: 1075, actual: 1075
+..............................
+Others:
+planned: 928, actual: 928
+..............................
+The annual income of the city: 200.3 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 25:
+Japanese:
+planned: 915, actual: 0
+..............................
+Modern:
+planned: 870, actual: 870
+..............................
+Others:
+planned: 1588, actual: 1588
+..............................
+The annual income of the city: 245.8 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 26:
+Japanese:
+planned: 1868, actual: 0
+..............................
+Modern:
+planned: 665, actual: 665
+..............................
+Others:
+planned: 721, actual: 721
+..............................
+The annual income of the city: 138.6 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 27:
+Japanese:
+planned: 1485, actual: 0
+..............................
+Modern:
+planned: 648, actual: 648
+..............................
+Others:
+planned: 509, actual: 509
+..............................
+The annual income of the city: 115.7 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 28:
+Japanese:
+planned: 1857, actual: 0
+..............................
+Modern:
+planned: 1732, actual: 1732
+..............................
+Others:
+planned: 1557, actual: 1557
+..............................
+The annual income of the city: 328.9 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 29:
+Japanese:
+planned: 562, actual: 0
+..............................
+Modern:
+planned: 588, actual: 588
+..............................
+Others:
+planned: 1797, actual: 1797
+..............................
+The annual income of the city: 238.5 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 30:
+Japanese:
+planned: 1989, actual: 0
+..............................
+Modern:
+planned: 698, actual: 698
+..............................
+Others:
+planned: 902, actual: 902
+..............................
+The annual income of the city: 160 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 31:
+Japanese:
+planned: 1689, actual: 0
+..............................
+Modern:
+planned: 1367, actual: 1367
+..............................
+Others:
+planned: 1676, actual: 1676
+..............................
+The annual income of the city: 304.3 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 32:
+Japanese:
+planned: 1019, actual: 0
+..............................
+Modern:
+planned: 1687, actual: 1687
+..............................
+Others:
+planned: 768, actual: 768
+..............................
+The annual income of the city: 245.5 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 33:
+Japanese:
+planned: 1949, actual: 0
+..............................
+Modern:
+planned: 1566, actual: 1566
+..............................
+Others:
+planned: 459, actual: 459
+..............................
+The annual income of the city: 202.5 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 34:
+Japanese:
+planned: 978, actual: 0
+..............................
+Modern:
+planned: 623, actual: 623
+..............................
+Others:
+planned: 1824, actual: 1824
+..............................
+The annual income of the city: 244.7 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 35:
+Japanese:
+planned: 1900, actual: 0
+..............................
+Modern:
+planned: 844, actual: 844
+..............................
+Others:
+planned: 768, actual: 768
+..............................
+The annual income of the city: 161.2 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 36:
+Japanese:
+planned: 1604, actual: 0
+..............................
+Modern:
+planned: 1527, actual: 1527
+..............................
+Others:
+planned: 739, actual: 739
+..............................
+The annual income of the city: 226.6 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 37:
+Japanese:
+planned: 1068, actual: 0
+..............................
+Modern:
+planned: 1132, actual: 1132
+..............................
+Others:
+planned: 1915, actual: 1915
+..............................
+The annual income of the city: 304.7 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 38:
+Japanese:
+planned: 1054, actual: 0
+..............................
+Modern:
+planned: 498, actual: 498
+..............................
+Others:
+planned: 1583, actual: 1583
+..............................
+The annual income of the city: 208.1 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 39:
+Japanese:
+planned: 1641, actual: 0
+..............................
+Modern:
+planned: 770, actual: 770
+..............................
+Others:
+planned: 1056, actual: 1056
+..............................
+The annual income of the city: 182.6 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+------------------------------------------------------------
+Year 40:
+Japanese:
+planned: 1172, actual: 0
+..............................
+Modern:
+planned: 1919, actual: 1919
+..............................
+Others:
+planned: 1673, actual: 1673
+..............................
+The annual income of the city: 359.2 million HUF
+Status of the city, before the repairs: 1 which is poor
+------------------------------------------------------------
+After the last year, the status of the city: 1 which is poor
